@@ -1,5 +1,7 @@
 # SideProjects
 
-Started: Jan 2026 << endl;
-Languages: C++ << endl;
+Started: Jan 2026 
+
+Languages: C++ 
+
 Projects for fun/learning experience!
